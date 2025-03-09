@@ -5,6 +5,7 @@ Denoising pipeline to denoise image using the adaptive non-local means algorithm
 ## Requirements
 
 **ANTs**
+
 Either ANTs installed locally on the user's computer
 
 Or using the docker antx/ants
