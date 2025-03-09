@@ -1,0 +1,7 @@
+{
+	"name": "Denoise Image",
+	"source_code": "Denoise.py",
+	"import_name": "Denoise",
+	"attr": "Denoise",
+	"add_info":{"use_docker":false, "sss_slurm_no":"Denoise_sss.json"}
+}
