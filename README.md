@@ -20,6 +20,8 @@ You can choose which one to run by switching the option in the Denoise.json file
 
 The first figure below shows the window of this pipeline. This window contains the following information:
 
+* "Select image to denoise": open File explorer to select the path towards the image to denoise
+
 * "output derivative folder: name of the output derivative folder to save the denoised image (default: Denoise)
 
 * "output img name": name of the output denoised image name (default: add den-ants to input image name)
